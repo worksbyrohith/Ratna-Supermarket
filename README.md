@@ -1,4 +1,4 @@
-# 🛒 Ratna Supermarket
+# 🛒 RATNA SUPERMARKET
 
 Welcome to **Ratna Supermarket** – an online shopping platform that delivers a complete and seamless e-commerce experience. From product browsing to order management, this project simulates a fully functional online store with an intuitive interface.
 
